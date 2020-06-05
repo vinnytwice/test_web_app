@@ -1,0 +1,6 @@
+package com.vinny.testwebapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
